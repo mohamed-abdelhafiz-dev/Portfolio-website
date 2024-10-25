@@ -18,5 +18,4 @@ let msgSubmitBtn = document.getElementById("msg-submit-btn");
 msgSubmitBtn.addEventListener("click", function (event) {
   event.preventDefault();
   window.scrollTo(0, 0);
-})
-iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii54444444444444;
+});
