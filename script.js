@@ -14,3 +14,8 @@ window.onscroll = function (event) {
     scrollToBottomBtn.style.display = "none";
   }
 };
+let msgSubmitBtn = document.getElementById("msg-submit-btn");
+msgSubmitBtn.addEventListener("click", function (event) {
+  event.preventDefault();
+  window.scrollTo(0, 0);
+});
