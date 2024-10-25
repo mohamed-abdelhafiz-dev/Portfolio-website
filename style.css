@@ -7,7 +7,7 @@
 :root {
     --main-color: #F2FDFF;
     --hover-color: rgb(246, 81, 51);
-    --background-color: #001524;
+    --background-color: #001524
 }
 
 ::selection {
@@ -285,7 +285,7 @@ main .contact h2 {
 
 main .contact form {
     width: 60%;
-    margin:0 auto 50px;
+    margin: 0 auto 50px;
     display: flex;
     flex-direction: column;
     color: var(--main-color);
